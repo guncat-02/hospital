@@ -1,11 +1,6 @@
 # 🩺HOSPITAL PROJECT
 <br>
 
-- 테스트 아이디 : dntmdgns
-- 테스트 비밀번호 : wkdcodbs
-
-<br>
-
 ## 프로젝트 소개
 *HOSPITAL PROJECT* Java GUI 기반 프로젝트입니다.
 
