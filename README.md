@@ -3,6 +3,9 @@
 # 🩺HOSPITAL PROJECT
 
 </div>
+
+![간호사](https://github.com/user-attachments/assets/c9ddf600-2062-4833-b798-c14219bc669a)
+
 <br>
 
 ## 프로젝트 소개
