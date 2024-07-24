@@ -78,4 +78,11 @@
 <br>
 
 ## 주요 기능
-### 환자 관리
+### 환자 접수
+![제목 없는 디자인 (1)](https://github.com/user-attachments/assets/c5edc187-a4d9-49ef-8fc5-a00c8c9fbabd)
+
+<strong>- 환자 접수 시 주민등록 번호에 따라 자동으로 성별 체크</strong>
+
+<strong>- 날짜에 따라 가능한 의사만 선택 가능</strong>
+
+### 환자 접수 상태 변경
