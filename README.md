@@ -86,3 +86,14 @@
 <strong>- 날짜, 시간에 따라 일정이 없는 의사만 선택 가능</strong>
 
 ### 환자 접수 상태 변경
+![제목 없는 디자인 (1)](https://github.com/user-attachments/assets/35749fc8-63b3-4070-9e8e-58ad1285ec1f)
+
+<strong>- 우클릭으로 접수 상태 변경 가능</strong>
+
+<strong>- 예약도 날짜, 시간에 따라 일정이 없는 의사만 선택 가능</strong>
+
+#### 예약 화면
+![image](https://github.com/user-attachments/assets/e7549e41-ac63-40d6-b178-862caa0c39ff)
+
+#### 취소 화면
+![image](https://github.com/user-attachments/assets/aea3da2d-dba3-43e9-837a-95eb2d154c4d)
