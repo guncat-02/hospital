@@ -74,3 +74,8 @@
 <div>
   <img src="https://github.com/user-attachments/assets/c0de34e6-a464-4381-bb0d-b95dd58362c1" height=500>
 </div>
+
+<br>
+
+## 주요 기능
+**환자 관리**
