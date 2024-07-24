@@ -4,7 +4,7 @@
 
 </div>
 
-![간호사](https://github.com/user-attachments/assets/c9ddf600-2062-4833-b798-c14219bc669a)
+![image](https://github.com/user-attachments/assets/d1212d2c-4217-402e-9923-4a165a71ba95)
 
 <br>
 
