@@ -98,9 +98,16 @@
 #### 취소 화면
 ![image](https://github.com/user-attachments/assets/aea3da2d-dba3-43e9-837a-95eb2d154c4d)
 
-### 환자 메모 작성 가능
+### 환자 메모 작성
 ![download](https://github.com/user-attachments/assets/d865b055-d7b6-4062-a3eb-1d9a3ed1a4fb)
 
 <strong>- 환자에 대한 메모 작성 가능</strong>
 
 <strong>- 간호사는 의사 메모 작성 불가능</strong>
+
+### 수납
+![download](https://github.com/user-attachments/assets/1b95a6cf-8e7a-4ebd-9edd-02ee32331371)
+
+<strong>- 수납금액 작성 가능</strong>
+
+<strong>- 결제 수단 선택 가능</strong>
