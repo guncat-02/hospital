@@ -97,3 +97,9 @@
 
 #### 취소 화면
 ![image](https://github.com/user-attachments/assets/aea3da2d-dba3-43e9-837a-95eb2d154c4d)
+
+### 환자 메모 작성 가능
+![download](https://github.com/user-attachments/assets/d865b055-d7b6-4062-a3eb-1d9a3ed1a4fb)
+
+<strong>- 환자에 대한 메모 작성 가능</strong>
+<strong>- 간호사는 의사 메모 작성 불가능</strong>
