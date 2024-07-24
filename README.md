@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩺HOSPITAL PROJECT🩺
+# 🩺 HOSPITAL PROJECT 🩺
 
 </div>
 
@@ -78,4 +78,4 @@
 <br>
 
 ## 주요 기능
-**환자 관리**
+### 환자 관리
