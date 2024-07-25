@@ -85,6 +85,8 @@
 
 <strong>- 날짜, 시간에 따라 일정이 없는 의사만 선택 가능</strong>
 
+<strong>- 연도, 월에 따라 last day 함수를 사용해 일수가 자동으로 변환</strong>
+
 ### 환자 접수 상태 변경
 ![제목 없는 디자인 (1)](https://github.com/user-attachments/assets/35749fc8-63b3-4070-9e8e-58ad1285ec1f)
 
@@ -101,7 +103,7 @@
 ### 환자 메모 작성
 ![download](https://github.com/user-attachments/assets/d865b055-d7b6-4062-a3eb-1d9a3ed1a4fb)
 
-<strong>- 환자에 대한 메모 작성 가능</strong>
+<strong>- 엔터 시 메모 작성 가능</strong>
 
 <strong>- 간호사는 의사 메모 작성 불가능</strong>
 
